@@ -2,7 +2,7 @@
 
 An AI-powered autonomous stock trading system built using [CrewAI](https://github.com/joaomdmoura/crewAI), featuring multi-agent collaboration, real-time stock analysis with [yFinance](https://pypi.org/project/yfinance/), and intelligent decision-making workflows powered by LLMs.
 
-> This project simulates how intelligent agents can analyze, strategize, and collaborate like a hedge fund to make smart trading decisions.
+> Note: This project is only for demo purpose.
 
 ---
 
